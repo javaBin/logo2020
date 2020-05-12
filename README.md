@@ -1,2 +1,2 @@
 # logo2020
-javaBIn logo files
+javaBIn logo files created by Thomas Nilsen (Macsimum).
